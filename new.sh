@@ -149,6 +149,7 @@ figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/AMVengeance/FB-React
 cd FB-React
+chmod 777 start
 ./start
 fi
 
