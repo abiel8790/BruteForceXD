@@ -192,6 +192,7 @@ figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/thelinuxchoice/shellphish.git
 cd shellphish
+pkg install openssh
 bash shellphish.sh
 fi
 
